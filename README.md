@@ -9,9 +9,6 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -38,14 +35,6 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 - Desktop-first workflow
 - [Vite](https://vite.dev/) - JS tool
 - [PostCSS](https://postcss.org/) - For styles
-
-### What I learned
-
-```css
-header {
-  height: clamp(70vh, 67vw, 65rem);
-}
-```
 
 ## Author
 
