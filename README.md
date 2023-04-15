@@ -24,8 +24,8 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/HassanMak29/)
-- Live Site URL: [Live site URL](https://frontend-mentor-.netlify.app/)
+- Solution URL: [Solution URL](https://github.com/HassanMak29/frontend-mentor-social-media-dashboard-with-theme-switcher)
+- Live Site URL: [Live site URL](https://frontend-mentor-theme-switcher-hassan.netlify.app/)
 
 ## My process
 
