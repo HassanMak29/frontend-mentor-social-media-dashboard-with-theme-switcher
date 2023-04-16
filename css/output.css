@@ -58,7 +58,8 @@ html {
 
 body {
   font-family: "Inter", sans-serif;
-  font-size: var(--font-size);
+  font-size: 1.4rem;
+  font-size: var(--fs-overview-card-heading);
   min-height: 100vh;
   display: flex;
   justify-content: center;
