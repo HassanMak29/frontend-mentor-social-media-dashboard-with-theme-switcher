@@ -25,15 +25,15 @@
   --TopBGPattern: hsl(232, 19%, 15%);
   --CardBG: hsl(228, 28%, 20%);
   --SecondaryText: hsl(228, 34%, 66%);
-  --White-Text: hsl(0, 0%, 100%);
+  --Text: hsl(0, 0%, 100%);
 
   /* #### Light Theme */
 
-  --White-BG: hsl(0, 0%, 100%);
+  /* --White-BG: hsl(0, 0%, 100%);
   --VeryPaleBlue-TopBGPattern: hsl(225, 100%, 98%);
   --LightGrayishBlue-CardBG: hsl(227, 47%, 96%);
   --DarkGrayishBlue-Text: hsl(228, 12%, 44%);
-  --VeryDarkBlue-Text: hsl(230, 17%, 14%);
+  --VeryDarkBlue-Text: hsl(230, 17%, 14%); */
 }
 
 *,
@@ -151,7 +151,7 @@ main {
 
 .header h1 {
   color: hsl(0, 0%, 100%);
-  color: var(--White-Text);
+  color: var(--Text);
   font-size: max(2.5rem, min(3.5vw, 3.5rem));
 }
 
@@ -173,7 +173,7 @@ main {
 
 .mode-switcher p {
   color: hsl(0, 0%, 100%);
-  color: var(--White-Text);
+  color: var(--Text);
   font-size: max(1.4rem, min(calc(2.8rem - 0.9vw), 1.9rem));
   font-size: max(var(--fs-overview-card-heading), min(calc(2.8rem - 0.9vw), 1.9rem));
   font-weight: 700;
@@ -279,7 +279,7 @@ main {
 
 .main-card__middle .number {
   color: hsl(0, 0%, 100%);
-  color: var(--White-Text);
+  color: var(--Text);
   font-size: 6rem;
   font-weight: 700;
 }
@@ -332,7 +332,7 @@ main {
 /* ** SECTION OVERVIEW ** */
 .section-overview h2 {
   color: hsl(0, 0%, 100%);
-  color: var(--White-Text);
+  color: var(--Text);
   font-size: 3rem;
 }
 
@@ -366,7 +366,7 @@ main {
 
 .detail-card span {
   color: hsl(0, 0%, 100%);
-  color: var(--White-Text);
+  color: var(--Text);
   font-size: 4rem;
   font-weight: 700;
 }
@@ -385,7 +385,7 @@ main {
   left: 50%;
   transform: translateX(-50%);
   color: hsl(0, 0%, 100%);
-  color: var(--White-Text);
+  color: var(--Text);
   margin-bottom: 1rem;
 }
 
